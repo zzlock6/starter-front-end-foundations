@@ -2,6 +2,19 @@ body {
   padding: 10px;
 }
 
-input {
-  margin: 5px;
+
+label{
+  display: block;
+}
+input{
+  width: 100%;
+  margin-bottom: 20px;
+}
+form {
+  padding-right: 6px;
+  display: block;
+}
+form textarea {
+  height: 140px;
+  width: 100%;
 }
